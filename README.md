@@ -27,5 +27,10 @@ body passed to object { name, name}
 DELETE /users/:id
 
 Note that this is just fake data
+
+NOTE 
+    Use this account to log in as an Administrator:
+    Email : admin@gmail.com
+    Password : Aa123456
 ```
 
