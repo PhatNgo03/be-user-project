@@ -10,7 +10,7 @@
 1. Get all users:
 GET /users
 
-2. Get blog by id
+2. Get user by id
 GET /users/:id
 
 for example: GET /users/1
@@ -23,7 +23,7 @@ body passed to object { email, name, name, password}
 PUT /users/:id
 body passed to object { name, name}
 
-5. Delete a blog
+5. Delete a user
 DELETE /users/:id
 
 Note that this is just fake data
