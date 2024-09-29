@@ -21,7 +21,7 @@
     {
       "name": "Alice Johnson",
       "email": "alice.johnson@example.com",
-      "role": "USERấ",
+      "role": "USER",
       "id": 3
     },
     {
@@ -29,6 +29,35 @@
       "email": "bob.brown@example.com",
       "role": "ADMIN",
       "id": 4
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "Aa123456",
+      "role": "ADMIN",
+      "createdAt": "2024-09-29T07:12:27.812Z",
+      "updatedAt": "2024-09-29T07:12:27.812Z",
+      "id": 12
+    },
+    {
+      "name": "user",
+      "email": "user@gmail.com",
+      "role": "USER",
+      "password": "Aa123456",
+      "id": 13
+    },
+    {
+      "name": "test1",
+      "email": "test@gmail.com",
+      "role": "USER",
+      "id": 14
+    },
+    {
+      "name": "test2",
+      "email": "test2@gmail.com",
+      "role": "USER",
+      "password": "Aa123456",
+      "id": 15
     }
   ],
   "leaveRequests": [
